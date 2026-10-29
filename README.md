@@ -1,16 +1,33 @@
-# React + Vite
+# Olá! Eu sou Heraclides Mourão 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Professor de Tecnologia | Desenvolvedor Full Stack
 
-Currently, two official plugins are available:
+Sou professor de tecnologia na Escola do Futuro Goiás, atuando na formação de estudantes em Desenvolvimento Web e Mobile, Programação e Ciência de Dados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Acredito que a tecnologia e a educação são ferramentas fundamentais para transformar ideias em soluções e preparar profissionais para o futuro.
 
-## React Compiler
+## 🚀 Tecnologias e ferramentas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Front-End:** HTML, CSS, JavaScript, React e Vite
+- **Back-End:** Node.js e Express
+- **Banco de Dados:** SQL Server e MongoDB
+- **Ciência de Dados:** Python, Pandas e Matplotlib
+- **Big Data:** Apache Spark, PySpark e Databricks
+- **Business Intelligence:** Power BI
+- **Versionamento:** Git e GitHub
 
-## Expanding the ESLint configuration
+## 🎯 Objetivo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Desenvolver soluções tecnológicas, compartilhar conhecimentos e contribuir para a formação de profissionais capazes de utilizar a programação, a análise de dados e a inovação para resolver problemas reais.
+
+## 📂 Projetos
+
+Neste perfil, compartilho projetos de desenvolvimento de software, aplicações Web e Mobile, análise de dados e materiais relacionados à educação tecnológica.
+
+## 📫 Contato
+
+- **GitHub:** [@heraclides](https://github.com/heraclides)
+
+---
+
+⭐ Obrigado pela visita! Vamos aprender, desenvolver e construir o futuro com tecnologia.
