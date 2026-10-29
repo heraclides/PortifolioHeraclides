@@ -26,7 +26,7 @@ Neste perfil, compartilho projetos de desenvolvimento de software, aplicações 
 
 ## 📫 Contato
 
-- **GitHub:** [@heraclides](https://github.com/heraclides)
+- **GitHub:** [@heraclides](https://github.com/heraclidesefg)
 
 ---
 
